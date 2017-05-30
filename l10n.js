@@ -77,3 +77,10 @@ var l10n = {
     "curators": "Questo SPS è curato da"
   }
 }
+  "zh-cn": {
+    "language": "简体中文",
+    "translator": "PLAY_ME",
+    "unique": "欢迎来到Scratch 101，查看和提交任何您喜欢的教程的地方！\n<br/><br/>对于第101个安全数据表，制作一个项目，展示一个关于你所关注的内容的教程。从食谱，学校概念，兴趣，当前的事件，或任何其他你可以想到的东西 的，创建一个教育项目，教更多的人你所爱的东西！尝试使项目互动，图片甚至声音！一定要查看其他人的教程！<br/>",
+    "standard": " 要让您的项目添加到这个工作室，请发表评论与链接。您可以通过点击项目页面上的“嵌入”按钮找到您项目的链接。该链接将直接在Facebook徽标之下\n<br/> 请在本设计工作室开始前一个月提交一个项目。但是，您可以更新项目，并将再次符合条件。如果您有一个较旧的项目将适合，添加一些新功能，并随时提交更新的版本！\n<br/>所有项目必须符合社区准则，适合所有年龄段！\n<br/>您的项目可能需要一些时间才能添加。请耐心等待，我们将最旧的项目添加到最新;不需要双发！\n<br/><br/>SDS（​​Scratch Design Studio）是一个主题工作室，任何Scratcher都可以提交与当前主题相匹配的项目，只要它符合上述要求。\n 查看这个项目，看看如何选择新的SDS策展人：（英文） <a href=\"https://scratch.mit.edu/projects/55738732/\">https://scratch.mit.edu/projects/55738732/</a>\n请不要简单地要求成为策展人！\n<br/><br/>你有未来的设计工作室的想法吗？请访问下面连接的工作室，阅读工作室描述，然后以项目的形式提交您的想法： <a href=\"https://scratch.mit.edu/studios/93627/\">https://scratch.mit.edu/studios/93627/</a>\n<br/><br/>关于Scratch Design Studio的问题？查看Scratch Wiki的文章：（英文） <a href=\"http://wiki.scratch.mit.edu/wiki/SDS/\">http://wiki.scratch.mit.edu/wiki/SDS/</a>\n<br/><br/>查看这个帐户在SDS上的新更新，新的SDS策展人等！ <a href=\"https://scratch.mit.edu/users/SDS-Updates/\">@SDS-Updates</a>\n<br/><br/>信任 @SDScurator1 和 @SDScurator2 的缩略图！",
+    "curators": "SDS被策划"
+  },
